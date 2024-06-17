@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Downloads\\Pntlession09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2764BD0-1F76-488A-96F6-D14B3C1716CA}|Pntlession09\\Pntlession09.csproj|c:\\users\\rog\\downloads\\pntlession09\\pntlession09\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2764BD0-1F76-488A-96F6-D14B3C1716CA}|Pntlession09\\Pntlession09.csproj|solutionrelative:pntlession09\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2764BD0-1F76-488A-96F6-D14B3C1716CA}|Pntlession09\\Pntlession09.csproj|c:\\users\\rog\\downloads\\pntlession09\\pntlession09\\controllers\\pntkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2764BD0-1F76-488A-96F6-D14B3C1716CA}|Pntlession09\\Pntlession09.csproj|solutionrelative:pntlession09\\controllers\\pntkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2764BD0-1F76-488A-96F6-D14B3C1716CA}|Pntlession09\\Pntlession09.csproj|c:\\users\\rog\\downloads\\pntlession09\\pntlession09\\models\\pntmodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C2764BD0-1F76-488A-96F6-D14B3C1716CA}|Pntlession09\\Pntlession09.csproj|solutionrelative:pntlession09\\models\\pntmodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ROG\\Downloads\\Pntlession09\\Pntlession09\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pntlession09\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ROG\\Downloads\\Pntlession09\\Pntlession09\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pntlession09\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T04:16:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PntKhoasController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Downloads\\Pntlession09\\Pntlession09\\Controllers\\PntKhoasController.cs",
+              "RelativeDocumentMoniker": "Pntlession09\\Controllers\\PntKhoasController.cs",
+              "ToolTip": "C:\\Users\\ROG\\Downloads\\Pntlession09\\Pntlession09\\Controllers\\PntKhoasController.cs",
+              "RelativeToolTip": "Pntlession09\\Controllers\\PntKhoasController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:15:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pntmodels.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ROG\\Downloads\\Pntlession09\\Pntlession09\\Models\\Pntmodels.edmx",
+              "RelativeDocumentMoniker": "Pntlession09\\Models\\Pntmodels.edmx",
+              "ToolTip": "C:\\Users\\ROG\\Downloads\\Pntlession09\\Pntlession09\\Models\\Pntmodels.edmx [Diagram1]",
+              "RelativeToolTip": "Pntlession09\\Models\\Pntmodels.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-17T04:14:25.421Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
